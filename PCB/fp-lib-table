@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Logo")(type "KiCad")(uri "C:/Users/syauq/Documents/PCB/MTE0003/MTE0003-1a/MTE0003-1a")(options "")(descr ""))
+  (lib (name "MTE0003-1a")(type "KiCad")(uri "C:/Users/syauq/Documents/PCB/MTE0003/MTE0003-1a/MTE0003-1a.pretty")(options "")(descr ""))
+)
